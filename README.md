@@ -1,4 +1,4 @@
-Casino-Betting-Game
+#Casino-Betting-Game
 Its  based on 'Craps Table' game commonly played in the casino's using dice and deciding the winner based n the number of dice and roll out.
 It uses two dice to choose a numbers from 1 to 10.
 Then the right guesser gets his betting money along with the other player's money who played on the table.
